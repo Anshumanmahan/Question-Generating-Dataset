@@ -1,0 +1,5 @@
+Column,Description
+COUNTY,Mother's recorded county of residence 
+TOTAL_CLAIMS,Overall number of claims for children born during the time period 07/2016 to 07/2017
+TOTAL_COST,Overall total dollar amount paid by Medicaid
+MEDIAN_COST,Median cost of a claim two years after birth

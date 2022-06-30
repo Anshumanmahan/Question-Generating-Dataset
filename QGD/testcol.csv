@@ -1,0 +1,11 @@
+﻿_id,Column Name,Description
+1,statefips,State FIPS geo code
+2,countyfips,County FIPS geo code
+3,description,County name
+4,naics,NAICS code - North American Industry Classification System
+5,naics_title,Description / NAICS Title
+6,year,Year
+7,employment,Employment
+8,averagepay,Average Pay 
+9,totalwages,Total Wages
+10,establishments, Number of Establishments (aka businesses or organizations - based on physical location)

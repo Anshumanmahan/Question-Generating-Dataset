@@ -1,0 +1,39 @@
+Q. Which Mother's recorded county of residence as indicated closest to the delivery date has the highest Total number of mothers with a live birth during the time period 07/2016 to 07/2017?
+
+#1.Which county has the most mothers with live births during the time period?
+2.Which county has the most mothers with live births between x1 and y1?
+
+
+Q. Which Mother's recorded county of residence as indicated closest to the delivery date has the lowest Total number of mothers with a live birth during the time period 07/2016 to 07/2017?
+
+1. WHich county has the least mothers with live births during x1 and x2?
+2. WHich county has the least mothers with live births between x1 and x2?
+
+Q. What is the sum of Total number of mothers with a live birth during the time period 07/2016 to 07/2017 in Mother's recorded county of residence as indicated closest to the delivery date ADAM and MARION?
+
+1. What is the sum of mothers with live birth in counties x and y?
+
+Q. What is the Total number of mothers with a live birth during the time period 07/2016 to 07/2017 in all Mother's recorded county of residence as indicated closest to the delivery date?
+
+1. How many mothers gave live birth during x1 and y1 across counties?
+2. How many mothers gave live birth during x1 and y1 in all counties?
+3. What is the total number of mothers with live birth during x1 and y1 in all counties?
+4. What is the total number of mothers with live birth during x1 and y1 across counties?
+
+Q. Which Ethnicity has the highest Total number of tests on specified date?
+
+1. Which ethnicity have the most covid tests on x1?
+
+Q. What is the minimum Total number of tests on a specified date among all Ethnicity (This field is on it's own tab)?
+
+1. Which ethnicity have the least covid tests on 26 feb, 2020?
+
+Q. What is the maximum Age Group among all The dates of death?
+
+1. What is the oldest age group which died from covid?
+2. What is the oldest age group in the dataset?
+
+Q. What is the minimum Age Group among all The dates of death?
+
+1. What is the youngest age group which died from covid?
+2. What is the youngest age group in the dataset?

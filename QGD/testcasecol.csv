@@ -1,9 +1,0 @@
-_id,Field Name,Field Description
-1,DATE,Date
-2,AGE_GRP,Age Group 
-3,GENDER,Gender 
-4,RACE,Race 
-5,ETHNICITY,Ethnicity
-6,COVID_TEST,Total number of tests on specified date
-7,COVID_COUNT,Total number of confirmed cases on specified date
-8,COVID_DEATHS,Total number of deaths on specified date

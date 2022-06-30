@@ -1,6 +1,0 @@
-Column,Description
-LOCATION_ID, Zip codes
-COUNTY_NAME,Reported counties
-COVID_COUNT,Number of reported COVID-19 cases
-COVID_DEATHS,Number of reported COVID-19 deaths
-COVID_TEST,Number of reported individuals with a resulted COVID-19 test

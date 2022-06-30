@@ -1,7 +1,0 @@
-COVID-19 Case Demographics Daily Trend
-
-Note for 12/30/21: This dataset has been updated, and should continue to receive daily updates.
-
-Number of Indiana COVID-19 cases and deaths by age group, gender, race and ethnicity by day.
-
-All data displayed is preliminary and subject to change as more information is reported to IDOH. Expect historical data to change as data is reported to IDOH.

@@ -1,9 +1,0 @@
-﻿_id,FIELD_NAME,DESCRIPTION
-1,FUND SOURCE,Funding source
-2,DESCRIPTION,Fund source description
-3,FEDERAL AWARDING AGENCY,Federal aid agency name
-4,BUSINESS UNIT,Agency number
-5,STATE AGENCY NAME,Agency name
-6,AWARD,Spend limit against funding source for BU/project
-7,EXPENSE,$ amount for transaction
-8,REMAINING,cap - expense_total
